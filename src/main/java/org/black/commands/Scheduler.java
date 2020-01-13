@@ -127,7 +127,6 @@ public class Scheduler {
 
     /**
      * Adds a command to the scheduling queue.
-     *
      * @param command       Command to be added
      * @param interruptible Whether the command is interruptible
      */
